@@ -1,0 +1,7 @@
+||app-analytics-sg.huami.com^
+||app.adjust.com^
+||badc.tongdun.cn^
+||live.shopee.ph^
+||tongdun.cn^
+||tongdun.net^
+||www.googleadservices.com^
